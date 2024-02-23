@@ -1,0 +1,17 @@
+.errorWrapper {
+  width: 100%;
+
+  margin: 0 auto;
+
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+}
+
+.errorImg {
+  width: 30%;
+
+  margin: 0 auto;
+}
